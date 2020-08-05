@@ -1,4 +1,5 @@
 #!/bin/bash
+#enter new message
 valid=true
 count=1
 while [ $valid ]
