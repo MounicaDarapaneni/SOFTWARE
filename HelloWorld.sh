@@ -2,9 +2,9 @@
 #enter new message
 valid=true
 count=1
-while [ $valid ]
-do
+while
 echo $count
+echo"this a print"
 if [ $count -eq 5 ];
 then
 break
